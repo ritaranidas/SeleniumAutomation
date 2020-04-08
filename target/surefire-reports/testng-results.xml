@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launched Application]]>
+    </line>
+    <line>
+      <![CDATA[Entered Personal Information details]]>
+    </line>
+    <line>
+      <![CDATA[Entered Address details]]>
+    </line>
+    <line>
+      <![CDATA[Registered user sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[signed out from Application]]>
+    </line>
+    <line>
+      <![CDATA[Logged in with registered user name and password]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Women Section]]>
+    </line>
+    <line>
+      <![CDATA[Mouse over on product and clicked on Quick view]]>
+    </line>
+    <line>
+      <![CDATA[Switched to the frame and increased the product amount to 2]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add to cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to checkout button]]>
+    </line>
+    <line>
+      <![CDATA[TotalPriceWithTax:  $56.00]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Accept Terms and Services' radio button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Verified the Total product amount]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'pay by Bank wire' payment method]]>
+    </line>
+    <line>
+      <![CDATA[Verified the Total product amount]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'I confirm my order']]>
+    </line>
+    <line>
+      <![CDATA[Verified the Total product amount]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on My Account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 'Order history and details' tap]]>
+    </line>
+    <line>
+      <![CDATA[Verified the Total product amount]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="107499" started-at="2020-04-08T14:25:01Z" finished-at="2020-04-08T14:26:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="107499" started-at="2020-04-08T14:25:01Z" finished-at="2020-04-08T14:26:49Z">
+      <class name="Pages.QaAutomate">
+        <test-method status="PASS" signature="placeOrder()[pri:0, instance:Pages.QaAutomate@506e6d5e]" name="placeOrder" duration-ms="107467" started-at="2020-04-08T19:55:01Z" finished-at="2020-04-08T19:56:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launched Application]]>
+            </line>
+            <line>
+              <![CDATA[Entered Personal Information details]]>
+            </line>
+            <line>
+              <![CDATA[Entered Address details]]>
+            </line>
+            <line>
+              <![CDATA[Registered user sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[signed out from Application]]>
+            </line>
+            <line>
+              <![CDATA[Logged in with registered user name and password]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Women Section]]>
+            </line>
+            <line>
+              <![CDATA[Mouse over on product and clicked on Quick view]]>
+            </line>
+            <line>
+              <![CDATA[Switched to the frame and increased the product amount to 2]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add to cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to checkout button]]>
+            </line>
+            <line>
+              <![CDATA[TotalPriceWithTax:  $56.00]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Accept Terms and Services' radio button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Verified the Total product amount]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'pay by Bank wire' payment method]]>
+            </line>
+            <line>
+              <![CDATA[Verified the Total product amount]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'I confirm my order']]>
+            </line>
+            <line>
+              <![CDATA[Verified the Total product amount]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on My Account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 'Order history and details' tap]]>
+            </line>
+            <line>
+              <![CDATA[Verified the Total product amount]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+      </class> <!-- Pages.QaAutomate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
